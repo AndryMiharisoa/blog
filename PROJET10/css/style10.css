@@ -1,0 +1,470 @@
+body{
+	background: green;
+	margin: 0px;	
+}
+
+#corp{
+	background: orange;
+	height: 1500px;
+	width: 1000px;
+	margin: auto;
+	position: relative;
+}
+
+header{
+	background: #fef7f7;
+	width: 1000px;
+	height: 100px;
+	position:absolute;
+}
+
+#tete1{
+	background: black;
+	width: 1000px;
+	height: 10px;
+	position: absolute;
+	margin-top: 0px;
+}
+
+#tete2{
+	background: black;
+	width: 700px;
+	height: 30px;
+	position: absolute;
+	margin-top: 10px;
+	margin-left: 150px
+}
+
+#fond{
+	width: 1000px;
+	height: 250px;
+	background: url(../img/eau1.jpg); 
+	position: absolute;
+	margin-top: 100px;
+}
+
+
+.ico{
+	margin-top: 200px;
+}
+
+.ico .gauche{
+	font-size: 48px;
+	color: yellow;
+	margin-left: 672px;
+	
+	
+}
+
+.ico .droite{
+	font-size: 48px;
+	color: orange;
+	
+}
+
+#lettre{
+	background: white;
+	height: 130px;
+	width: 400px;
+	position: absolute;
+	margin-top: 110px; 
+	margin-left: 150px;
+	opacity: .5;	
+}
+
+#f1{
+	background: yellow;
+	width: 50px;
+	height: 50px;
+	margin-top: 185px;
+	margin-left: 650px;
+	position: absolute;
+
+}	
+
+#corp2{
+	background: white;
+	height: 600px;
+	width: 1000px;
+	position: absolute;
+	margin-top: 350px;
+
+
+}
+
+footer{
+	background: #504a4a;
+	width: 1000px;
+	height: 515px;
+	position: absolute;
+	margin-top: 950px;
+}
+
+#foot{
+	background: black;
+	width: 1000px;
+	height: 35px;
+	position: absolute;
+	margin-top: 515px;
+}
+
+#date{
+	background: ;
+	height: 35px;
+	width: 435px;
+	position: absolute;
+	margin-top: 0px;	
+}	
+
+#icon1{
+	background: ;
+	width: 30px;
+	height: 30px;
+	margin-left: 665px;
+	margin-top: -20px;
+	position: absolute;
+}
+
+#icon2{
+	background: ;
+	width: 30px;
+	height: 30px;
+	margin-left: 630px;
+	margin-top: -20px;
+	position: absolute;
+}
+
+#icon3{
+	background: ;
+	width: 30px;
+	height: 30px;
+	margin-left: 595px;
+	margin-top: -20px;
+	position: absolute;
+}
+
+#s1{
+	background: ;
+	width: 195px;
+	height: 20px;
+	margin-left: 325px;
+	margin-top: -15px;
+	padding-left: 2px;
+	position: absolute;
+}
+
+#s2{
+	background: ;
+	width: 160px;
+	height: 60px;
+	margin-left: 150px;
+	margin-top: 40px;
+	position: absolute;
+}
+
+#icon4{
+	background: ;
+	width: 30px;
+	height: 30px;
+	margin-left: 560px;
+	margin-top: -20px;
+	position: absolute;
+}
+
+#icon5{
+	background: ;
+	width: 30px;
+	height: 30px;
+	margin-left: 525px;
+	margin-top: -20px;
+	position: absolute;
+}
+
+.image{
+	width: 25px;
+	height: 25px;
+	border-radius: 7px;
+	padding-top: 2px;
+	padding-left: 2px;
+}
+
+#radial{
+	color: ;
+	text-align: center;	
+	padding-top: 0px;
+	font-family: Brush Script MT;
+	font-size: 30px;
+}
+
+#menuhaut{
+	background: ;
+	position: absolute;
+	width: 510px;
+	height: 60px;
+	margin-left: 340px;
+	margin-top: 40px;
+	z-index: ;
+
+}
+
+#menuhaut ul{
+	background: ;
+	position: absolute;
+	width: 510px;
+	height: 60px;
+	padding: 0px;
+	margin: 0px;
+}
+
+#menuhaut ul li{
+	display: inline-block;
+	background: ;
+	width: 90px;
+	height: 30px;
+	text-align: center;
+	padding-top: 30px;
+	margin-left: 8px;
+}
+
+#menubas{
+	background: ;
+	position: absolute;
+	width: 510px;
+	height: 35px;
+	margin-left: 490px;
+	margin-top: 0px;
+	z-index: ;
+
+}
+
+#menubas ul{
+	background: ;
+	position: absolute;
+	width: 510px;
+	height: 35px;
+	padding: 0px;
+	margin: 0px;
+	color: white;
+}
+
+#menubas ul li{
+	display: inline-block;
+	background: ;
+	width: 90px;
+	height: 30px;
+	text-align: center;
+	padding-top: 14px;
+	margin-left: 15px;
+}
+
+#f1{
+	background: yellow;
+	width: 50px;
+	height: 50px;
+	margin-top: ;
+	margin-left: ;
+	position: absolute;
+
+}
+
+
+
+
+#s3{
+	background: #d4c4c4;
+	width: 173px;
+	height: 160px;
+	margin-left: 150px;
+	margin-top: 360px;
+	position: absolute;	
+}
+
+
+
+#s4{
+	background: #d4c4c4;
+	width: 173px;
+	height: 160px;
+	margin-left: 330px;
+	margin-top: 360px;
+	position: absolute;
+}
+
+
+
+#s5{
+	background: black;
+	width: 169px;
+	height: 160px;
+	margin-left: 510px;
+	margin-top: 360px;
+	position: absolute;
+}
+
+#s6{
+	background: #d4c4c4;
+	width: 169px;
+	height: 160px;
+	margin-left: 685px;
+	margin-top: 360px;
+	position: absolute;
+}
+
+#s7{
+	background: #d4c4c4;
+	width: 705px;
+	height: 35px;
+	margin-left: 150px;
+	margin-top: 540px;
+	position: absolute;
+}
+
+#s8{
+	background: red;
+	width: 169px;
+	height: 125px;
+	margin-left: 150px;
+	margin-top: 595px;
+	position: absolute;
+}
+
+#s9 {
+    background: orange;
+    width: 173px;
+    height: 125px;
+    margin-left: 330px;
+    margin-top: 595px;
+    position: absolute;
+}
+
+#s10 {
+    background: yellow;
+    width: 169px;
+    height: 125px;
+    margin-left: 510px;
+    margin-top: 595px;
+    position: absolute;
+}
+
+#s11 {
+    background: aqua;
+    width: 169px;
+    height: 125px;
+    margin-left: 685px;
+    margin-top: 595px;
+    position: absolute;
+}
+
+#s12 {
+    background: ;
+    width: 169px;
+    height: 170px;
+    margin-left: 150px;
+    margin-top: 725px;
+    position: absolute;
+}
+
+#s13{
+	background: ;
+	width: 173px;
+	height: 170px;
+	margin-left: 330px;
+	margin-top: 725px;
+	position: absolute;
+}
+
+#s14{
+	background: ;
+	width: 169px;
+	height: 170px;
+	margin-left: 510px;
+	margin-top: 725px;
+	position: absolute;
+}
+
+#s15{
+	background: ;
+	width: 169px;
+	height: 170px;
+	margin-left: 685px;
+	margin-top: 725px;
+	position: absolute;
+}
+
+#s16{
+	background: ;
+	width: 45px;
+	height: 45px;
+	margin-left: 475px;
+	margin-top: 899px;
+	position: absolute;
+	
+}
+
+#s17{
+	background: ;
+	width: 250px;
+	height: 125px;
+	margin-left: 150px;
+	margin-top: 10px;
+	position: absolute;	
+}
+
+footer .zone
+{
+	width: 400px;
+    height: 470px;   
+	margin-left: 385px;
+	float: left;
+}
+footer .zone h3
+{
+	color: white;
+	font-size: 18px;
+	margin-left: 65px;
+}
+footer .nom input
+{
+	width: 280px; 
+	height: 25px;
+	margin-left: 30px;
+	background: #b2ddb4;
+	color: white;
+	font-size: 25px;
+	border: 5px solid #b2ddb4;
+}
+footer .motdepass input
+{
+	width: 280px; 
+	height: 25px;
+	margin-top: 10px;
+	margin-left: 30px;
+	background: #b2ddb4;
+	color: white;
+	font-size: 25px;
+	border: 5px solid #b2ddb4;
+}
+footer .text input
+{
+	width: 280px; 
+	height: 145px;
+	margin-top: 10px;
+	margin-left: 30px;
+	background: #b2ddb4;
+	color: white;
+	font-size: 25px;
+	border: 5px solid #b2ddb4;
+}
+footer .button input
+{
+	width: 185px; 
+	height: 40px;
+	margin-top: 10px;
+	margin-left: 100px;
+	background: #b2ddb4;
+	color: white;
+	font-size: 18px;
+	border: 5px solid #b2ddb4;
+
+
+
